@@ -1,0 +1,11 @@
+{
+  "name": "react-light",
+  "packageManager": "yarn@3.6.1",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  }
+}
